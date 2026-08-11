@@ -1,0 +1,15 @@
+admin
+api
+assets
+backup
+backup-config
+dashboard
+debug
+dev
+internal
+old
+private
+robots.txt
+secret
+staging
+test
